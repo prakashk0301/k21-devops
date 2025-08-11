@@ -1,8 +1,8 @@
 ## Prerequisites
 
-- Ubuntu 24.04 (fresh or existing server)
+- Create AWS ec2/Azure Ubuntu 24.04
 - `sudo` privileges
-- Internet access
+- Internet access, open port 22, 80, 8080, 443 in security group
 
 ---
 
